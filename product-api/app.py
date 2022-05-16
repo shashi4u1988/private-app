@@ -11,6 +11,7 @@ class Products(Resource):
           "SRE",
           "Development",
           "Databases",
+          "Microsoft",
         ]}
 
 api.add_resource(Products, '/')
