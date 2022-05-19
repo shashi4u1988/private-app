@@ -13,6 +13,7 @@ class Products(Resource):
           "Databases",
           "Microsoft",
           "Red Hat",
+          "Ubuntu",
         ]}
 
 api.add_resource(Products, '/')
